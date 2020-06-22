@@ -1,5 +1,5 @@
 {
-  "name": "diagnostics",
+  "name": "@dabh/diagnostics",
   "version": "2.0.2",
   "description": "Tools for debugging your node.js modules and event loop",
   "main": "./node",
@@ -57,5 +57,8 @@
     "Martijn Swaagman (https://github.com/swaagie)",
     "Jarrett Cruger (https://github.com/jcrugzz)",
     "Sevastos (https://github.com/sevastos)"
-  ]
+  ],
+  "directories": {
+    "test": "test"
+  }
 }
