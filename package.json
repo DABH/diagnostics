@@ -1,6 +1,6 @@
 {
   "name": "@dabh/diagnostics",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Tools for debugging your node.js modules and event loop",
   "main": "./node",
   "browser": "./browser",
@@ -49,7 +49,7 @@
     "webpack-cli": "3.x"
   },
   "dependencies": {
-    "colorspace": "1.1.x",
+    "@so-ric/colorspace": "^1.1.4",
     "enabled": "2.0.x",
     "kuler": "^2.0.0"
   },
