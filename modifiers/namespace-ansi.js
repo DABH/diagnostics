@@ -1,4 +1,4 @@
-var colorspace = require('colorspace');
+var colorspace = require('@so-ric/colorspace').default;
 var kuler = require('kuler');
 
 /**
