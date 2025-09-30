@@ -1,4 +1,5 @@
-var colorspace = require('@so-ric/colorspace').default;
+const fixEsm = require('fix-esm');
+var colorspace = fixEsm.require('@so-ric/colorspace').default;
 var kuler = require('kuler');
 
 /**
