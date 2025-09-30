@@ -1,6 +1,6 @@
 {
   "name": "@dabh/diagnostics",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Tools for debugging your node.js modules and event loop",
   "main": "./node",
   "browser": "./browser",
